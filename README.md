@@ -1,7 +1,7 @@
 # Online Courses Analysis Dashboard
 A comprehensive data visualization dashboard analyzing online course trends, popularity, and statistics across various categories and programming languages.
 📊 Dashboard Overview
-![Optional Text](path/to/snapshot.png)   
+![Optional Text]([path/to/snapshot.png](https://github.com/AnkitVerma8005/Online_course_analysis/blob/main/snapshot.PNG))   
 This interactive dashboard provides insights into:
 
 # Course type popularity trends
